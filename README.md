@@ -59,16 +59,20 @@
   <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=plastic&logo=Notepad%2B%2B&logoColor=white"/>
 </p>
 
-</br></br>
+<br/><br/>
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chldlsrb1000" width="300"/>
 </p>
 
-</br>
-
-</br>
+<br/><br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dunde1&show_icons=true&theme=tokyonight"/>
+</p>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunde1&layout=compact"/>
 </p>
