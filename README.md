@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=plastic&logo=ApacheTomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=IntelliJIDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pug-A86454?style=plastic&logo=Pug&logoColor=white"/>
 </p>
 
 <h3 align="center">🎓 learning now ✏</h3>
@@ -37,7 +38,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pug-A86454?style=plastic&logo=Pug&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black"/>
