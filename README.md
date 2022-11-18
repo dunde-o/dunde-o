@@ -51,13 +51,6 @@
   <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=NGINX&logoColor=white"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=Zoom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=plastic&logo=Notepad%2B%2B&logoColor=white"/>
-</p>
 
 <br/><br/>
 
