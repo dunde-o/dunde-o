@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDunde1&count_bg=%238FB0FF&title_bg=%23555555&icon=node-dot-js.svg&icon_color=%23FFBF00&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/>
+  <a href="https://hits.sh/github.com/dunde-o/">
+    <img alt="Hits" src="https://hits.sh/github.com/dunde-o.svg?label=%EC%A0%84%EC%B2%B4%20%EB%B0%A9%EB%AC%B8%EC%9E%90"/>
   </a>
 </p>
 
