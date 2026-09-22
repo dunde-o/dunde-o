@@ -71,17 +71,5 @@
 <br/>
 
 <p align="center">
-  <a href="여기에_노션_포트폴리오_주소">
-    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://blog.dunde.kr">
-    <img src="https://img.shields.io/badge/Blog-764ba2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="mailto:chldlsrb1000@naver.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </p>
